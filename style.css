@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; }
+body { font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 42rem; margin: 2rem auto; padding: 0 1rem; }
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+a { color: #bf4526; }
+@media (prefers-color-scheme: dark) { a { color: #f08a68; } }
+.small { font-size: .9rem; opacity: .75; }
